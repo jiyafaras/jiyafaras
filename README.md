@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @jiyafaras
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Jiya Faras</h1>
+<h3 align="center">A passionate Electronic developer</h3>
 
-<!---
-jiyafaras/jiyafaras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **Electronics and telecommunication**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
